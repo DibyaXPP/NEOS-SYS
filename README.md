@@ -31,6 +31,13 @@ This Kernel aims to Clones NT5.2 [Server 2003/XP x64] with following extra featu
 * Pico Process
 * DTrace
 
+Directory Structure:
+CCX: Cachemanager 
+MMX: Memorymanager
+CMX: Configmanager 
+EXX: Executive Functions
+FSX: FileSystem Filter Functions
+LPX: ALPC Related Components 
 
 
 
