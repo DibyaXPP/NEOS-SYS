@@ -99,7 +99,8 @@ bool CacheManager::CcScheduleLazyWriteScanEx (BOOLEAN  	NoDelay	, BOOLEAN LazyWr
 	return result;
 }
 
-		
+/* This Function Set Event for Cachemanager Errors/Notifcation */
+/* It receives parameter Event , which points to respective Error or Event for Cache Writer */
 
 LONG NTAPI CcNotifyWriteBehind(int Event)
 {
