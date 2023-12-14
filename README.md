@@ -1,4 +1,4 @@
-# NEOS-SYS
+# NEOS-Kernel
 NEOS: Next Generation LightWeight NT Like Operating System Kernel 
 
 This Kernel aims to Clones NT5.2 [Server 2003/XP x64] with following extra features 
